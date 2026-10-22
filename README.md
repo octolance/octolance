@@ -17,9 +17,12 @@ That being said, hi I am Alex 🐝, and here are a few things I might be good at
 
 A few things I'm working on:
 - [octolance.me](https://octolance.me)
-- learning Swift and Mac stuff
+- how to do Swift and iOS/Mac software development
+- learning :es: and :cn:
 - this `README.MD`
 - a degree 🎓
+
+I speak :gb: and :ru:
 
 <!--
 **octolance/octolance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
